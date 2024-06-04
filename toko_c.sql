@@ -37,7 +37,7 @@ CREATE TABLE `category` (
 --
 -- Struktur dari tabel `keranjang`
 --
-
+-- testing
 CREATE TABLE `keranjang` (
   `id_keranjang` int(5) NOT NULL,
   `id_product` int(5) NOT NULL,
